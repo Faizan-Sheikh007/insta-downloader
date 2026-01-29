@@ -1,5 +1,5 @@
-fastapi
-uvicorn
-yt-dlp
-python-multipart
-aiofiles
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+yt-dlp==2024.1.1
+requests==2.31.0
+python-multipart==0.0.6
